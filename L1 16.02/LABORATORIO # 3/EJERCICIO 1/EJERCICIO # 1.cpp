@@ -373,7 +373,7 @@ int main(){
 				}
 			break;
 		}
-		case 'f':{cout<<"Hasta luego..."<<endl;
+		case 'f':{cout<<"Continue..."<<endl;
 			break;
 		}
 	default:	cout<<"Error de eleccion"<<endl;
@@ -609,7 +609,7 @@ int main(){
 						}
 					}else{cout<<"\nNO SE PUEDE HALLAR LA INVERSA, PORQUE LA DETERMINANTE ES CERO"<<endl;
 					}
-				}else{cout<<"\nLA MATRIZ A NO ES CUADRADA"<<endl;
+				}else{cout<<"\nLA MATRIZ B NO ES CUADRADA"<<endl;
 					cout<<" POR TANTO NO SE PUEDE HALLAR LA DETERMINANTE, NI LA INVERSA"<<endl;
 				}
 				break;
