@@ -1,0 +1,32 @@
+
+
+	SE TIENE UN TOTAL DE 891 BASES DE DATOS
+  LOS RESULTADOS SON LOS SIGUIENTES: 
+
+	___________________________________________________
+	|                                                 |
+	|	a) TOTAL HOMBRES =                577     |
+	|	b) TOTAL MUJERES =                314     |
+	|	c) TOTAL NINIOS HASTA 15 ANIOS =  28      |
+	|	d) TOTAL JOVENES 15-21 ANIOS =    110     |
+	|	e) TOTAL MAYORES DE 22-40 ANIOS = 368     |
+	|	f) TOTAL SENIOR DE 40-60  =       3255    |
+	|	g) TOTAL MASTERS 70-100 =         1701    |
+	|	h) TOTAL SOBREVIVIENTES =         342     |
+	|_________________________________________________|
+
+
+	SE TIENE UN TOTAL DE 891 BASES DE DATOS
+  LOS RESULTADOS SON LOS SIGUIENTES: 
+
+	___________________________________________________
+	|                                                 |
+	|	a) TOTAL HOMBRES =                577     |
+	|	b) TOTAL MUJERES =                314     |
+	|	c) TOTAL NINIOS HASTA 15 ANIOS =  28      |
+	|	d) TOTAL JOVENES 15-21 ANIOS =    110     |
+	|	e) TOTAL MAYORES DE 22-40 ANIOS = 368     |
+	|	f) TOTAL SENIOR DE 40-60  =       3255    |
+	|	g) TOTAL MASTERS 70-100 =         1701    |
+	|	h) TOTAL SOBREVIVIENTES =         342     |
+	|_________________________________________________|
